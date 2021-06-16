@@ -14,3 +14,20 @@ Twitter: https://twitter.com/shipractical
 Email: shivampandit2016@gmail.com
 
 
+<!-- 
+Coding Profiles:
+Leetcode:
+Codeforces:
+Hackerrank:
+
+Projects:
+1.
+2.
+
+Technologies: 
+Advanced:
+Intermediate:
+Basic:
+
+Statistics
+ -->
