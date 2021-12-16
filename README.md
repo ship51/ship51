@@ -3,8 +3,10 @@
 
 I am a third-year undergraduate student at National Institute of Technology Meghalaya. <br>
 
-I am a tech enthusiast and am proficient in backend development using Php and MySQL. I am fascinated by cloud computing and am learning more about Google Cloud and AWS.
-Also, I am currently working in projects involving Javascript (APIs), and another involving Deep Learning.
+I am a tech enthusiast and am proficient in backend development using PHP and MySQL. 
+Also, I am currently working in a Deep Learning (Image Processing) project and another one involving Flask.
+I am fascinated by cloud computing such as Google Cloud and AWS.
+
 
 It would be great to connect. Feel free to reach out:
 
@@ -39,9 +41,9 @@ Here are some ideas to get you started:
 
 <!-- 
 Coding Profiles:
-Leetcode:
-Codeforces:
-Hackerrank:
+Leetcode: https://leetcode.com/ship51/
+Codeforces: https://codeforces.com/profile/ship51
+Hackerrank: https://www.hackerrank.com/ship51
 
 Projects:
 1.
